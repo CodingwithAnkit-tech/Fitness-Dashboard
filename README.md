@@ -1,4 +1,4 @@
-# 🧩 50+ Figma Dashboard Background Templates — For Power BI
+# 🧩 Fitness Dashboard Background — For Power BI
 
 This guide helps you use **Figma-designed dashboard backgrounds** to make your Power BI reports visually stunning and professional.  
 Follow these simple steps to import and customize backgrounds for your dashboard.
@@ -57,27 +57,3 @@ Follow these simple steps to import and customize backgrounds for your dashboard
 ✅ **Saves Time, Enhances Visual Appeal, and Improves User Experience**
 
 ---
-
-## 🧑‍💻 Author & Source
-**The Developer**  
-Focused on **Power BI, data visualization, and dashboard tutorials**  
-Owned by *Mohd Ayan Khan*  
-
-🔗 [Visit Website](https://thedeveloperyt.com/product/50-figma-templates/)  
-
----
-
-## 🛍️ Additional Pages
-- Home  
-- Contact Us  
-- Checkout  
-- Shop  
-- Policies  
-  - Privacy Policy  
-  - Refund & Returns Policy  
-  - Shipping Policy  
-- My Account  
-
----
-
-📅 **Last Updated:** October 6, 2025  
