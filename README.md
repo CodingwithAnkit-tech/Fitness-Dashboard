@@ -15,7 +15,7 @@
 # 🧰 Tools & Technologies Used
 
 - Power BI Desktop → for creating dashboards and visuals
-Figma → for designing background templates
+- Figma → for designing background templates
 
 Excel / CSV Data Sources → for analytics input
 
