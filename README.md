@@ -2,7 +2,7 @@
 📊 Overview
 
 - The Fitness Analytics Dashboard is a visually rich Power BI report designed using custom backgrounds created in Figma.
-It provides a modern, data-driven visualization for fitness analytics — helping users analyze member performance, workout progress, and key health metrics with an engaging UI.
+- It provides a modern, data-driven visualization for fitness analytics — helping users analyze member performance, workout progress, and key health metrics with an engaging UI.
 
 # 🎯 Features
 
